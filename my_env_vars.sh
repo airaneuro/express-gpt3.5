@@ -1,0 +1,1 @@
+BEARER_TOKEN=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
